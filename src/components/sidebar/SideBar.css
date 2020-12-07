@@ -1,0 +1,39 @@
+.SideBar {
+    grid-column: 1/2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    text-align: center;
+    margin-bottom: 200px;
+}
+
+.sidebar-link {
+    font-size: 20px;
+    padding: 5px;
+    width: 150px;
+    margin: 0px auto 0px auto;
+    border-radius: 10px;
+}
+
+.sidebar-link:link {
+    color: var(--text);
+    text-decoration: none;
+}
+
+.sidebar-link:visited {
+    color: var(--text);
+    text-decoration: none;
+}
+
+.sidebar-link:active {
+    color: var(--text);
+    text-decoration: none;
+}
+
+.sidebar-link:hover {
+    background-color: var(--text);
+    color: var(--main);
+}

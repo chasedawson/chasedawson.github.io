@@ -1,0 +1,104 @@
+.Projects {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+}
+
+.page-title {
+    font-size: 42px;
+    margin-bottom: 25px;
+
+}
+
+.ProjectLink {
+    border: 1px solid var(--text);
+    width: 25%;
+    margin: 10px 20px 10px 0px;
+    padding: 10px;
+    border-radius: 15px;
+    text-decoration: none;
+}
+
+.ProjectLink:hover {
+    background-color: var(--text);
+}
+
+.ProjectLink:hover h4 {
+    color: var(--main);
+}
+
+.ProjectLink:hover p {
+    color: var(--main);
+}
+
+.projects-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+h4 {
+    color: var(--text);
+}
+
+.Project {
+    padding-right: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+}
+
+.project-title {
+    font-size: 30px;
+    margin: 0px;
+    color: var(--accent);
+}
+
+.project-link {
+    margin-top: 10px;
+}
+
+.project-link a {
+    font-size: 20px;
+    color: var(--accent);
+    padding: 5px;
+}
+
+.project-link a:link {
+    text-decoration: none;
+}
+
+.project-link a:visited {
+    text-decoration: none;
+}
+
+.project-link a:hover {
+    color: var(--text);
+    background-color: var(--accent); 
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.project-link a:active {
+    text-decoration: none;
+}
+
+
+
+.ProjectLink > .name {
+    font-size: 22px;
+    margin: 0px 0px 10px 0px;
+}
+
+.ProjectLink > .desc {
+    margin: 0px;
+    font-size: 18px;
+}
+
+
+
+
+
+
