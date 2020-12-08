@@ -3,11 +3,12 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    min-height: 100vh;
+    height: 100%;
 }
 
 .hello {
     font-size: 42px;
+    color: var(--accent);
 }
 
 .self-intro p {

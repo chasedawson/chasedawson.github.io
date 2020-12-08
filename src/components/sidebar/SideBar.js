@@ -14,9 +14,9 @@ class SideBar extends Component {
     render() {
         return (
             <div className="SideBar">
-                <Link className="sidebar-link" to="/portfolio/about">about me</Link>
-                <Link className="sidebar-link" to="/portfolio/projects">my work</Link>
-                <Link className="sidebar-link" to="/portfolio/contact">contact me</Link>
+                <Link className="sidebar-link" to="/about">about me</Link>
+                <Link className="sidebar-link" to="/projects">my work</Link>
+                <Link className="sidebar-link" to="/contact">contact me</Link>
             </div>
         );
     }
