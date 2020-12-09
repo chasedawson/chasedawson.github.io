@@ -37,3 +37,9 @@
     background-color: var(--text);
     color: var(--main);
 }
+
+.sidebar-link.selected {
+    background-color: var(--accent);
+    color: var(--main);
+}
+

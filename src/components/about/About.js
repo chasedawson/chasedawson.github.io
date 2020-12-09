@@ -27,7 +27,7 @@ class About extends Component {
 
                     <p>
                         In addition to working during my gap year, I'm also participating in a fellowship through the Creator Institute, 
-                        where I am writing a book that will be published in August 2021. The goal of my book, <span style={{"font-style": "italic"}}>Visualizing the Climate Crisis</span>,
+                        where I am writing a book that will be published in August 2021. The goal of my book, <span style={{"fontStyle": "italic"}}>Visualizing the Climate Crisis</span>,
                         is to provide a collection of data-driven visual stories interwoven with personal narratives and experiences from members of frontline communities, climate activists,
                         or generally people involved in the climate space. 
                     </p>

@@ -27,10 +27,11 @@
         "link": "asdf"
     },
     {
-        "name": "Climate Responsibility",
-        "short_desc": "Final project for Data Visualization class.",
-        "long_desc": "<p>Sorry! I don’t have all the description and link for this project up yet. Check back later as I continue to update my site.</p>",
-        "path": "/projects/climate_responsibility"
+        "name": "Climate Responsibility and Vulnerability",
+        "short_desc": "Final project for SARC 5400: Data Visualization. Interactive visual of historic CO2 emissions for various countries.",
+        "long_desc": "<p>This interactive data visualization was my final project for SARC 5400: Data Visualization with Professor Eric Field at the University of Virginia for which I received a score of 4.8 out of 5. I wanted to visually explore who is most responsible for and vulnerable to climate change. The language of responsibility is specifically chosen to reframe climate change as an issue that the US and other countries are responsible for and must address.</p><p>To complete this project, I analyzed the data using Python and created the visual using D3.</p>",
+        "path": "/projects/climate_responsibility",
+        "link": "https://chasedawson.github.io/climate-responsibility-viz/"
     },
     {
         "name": "Public Interest Data Lab: Race and Charlottesville Child Protection Services",
