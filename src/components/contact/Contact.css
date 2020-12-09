@@ -1,0 +1,11 @@
+.Contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+}
+
+.inner-content p {
+    font-size: 18px;
+    color: var(--text);
+}
