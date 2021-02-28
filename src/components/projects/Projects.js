@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import ProjectLink from './ProjectLink';
 import projects from './projects.json';
-import { Link, Route, useParams, useRouteMatch } from 'react-router-dom';
 import './Projects.css';
 
 

@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './SideBar.css';
-import history from '../../history';
 import { Link } from 'react-router-dom';
 
 class SideBar extends Component {
@@ -15,7 +14,7 @@ class SideBar extends Component {
     getPath = () => {
         var path = window.location.href;
         var currentTab = path.split('#')[1];
-        if (currentTab == "/") currentTab = "/about";
+        if (currentTab === "/") currentTab = "/about";
         return currentTab;
     }
 
@@ -45,7 +44,7 @@ class SideBar extends Component {
         return links.map(link => {
             console.log(link.name);
             console.log(this.state.selectedTab);
-            if (link.path == this.state.selectedTab) {
+            if (link.path === this.state.selectedTab) {
                 return (
                     <Link className="sidebar-link selected" to={link.path} onClick={() => { this.highlight(link.path)}}>{link.name}</Link>
                 );

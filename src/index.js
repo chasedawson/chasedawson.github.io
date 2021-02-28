@@ -6,7 +6,6 @@ import reportWebVitals from './reportWebVitals';
 import { Provider } from 'react-redux';
 import { HashRouter } from 'react-router-dom';
 import store from './store';
-import history from './history';
 
 ReactDOM.render(
   <Provider store={store}>
