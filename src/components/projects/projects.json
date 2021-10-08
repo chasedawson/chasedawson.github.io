@@ -14,22 +14,16 @@
         "link": "https://dspg-young-scholars-program.github.io/dspg20CharlottesvilleEMSEquity/"
     },
     {
-        "name": "Minerva",
-        "short_desc": "Determining how collective action is mediated through social media.",
-        "long_desc": "<p>Sorry! I don’t have all the description and link for this project up yet. Check back later as I continue to update my site.</p>",
-        "path": "/projects/minerva"
-    },
-    {
         "name": "MedLock",
         "short_desc": "A precription monitoring service that bridges gaps in patient care using Mobile Health technologies so that HealthCare Providers may prevent, identify, and intervene in real time for potential opioid addiction.",
-        "long_desc": "<p>Sorry! I don’t have all the description and link for this project up yet. Check back later as I continue to update my site.</p>",
+        "long_desc": "<p>After my first year at UVA, I joined MedLock, a Medtech start-up. The goal of MedLock was to design a holistic approach to opioid addiction prevention and recovery through a single-dispense pill dispenser that links to an online platform where patients and healthcare providers can monitor pill dispenses, track certain health metrics, communicate, and access resources. Addiction is an illness that strikes when someone lacks sufficient community support, so we attempted to build a platform that acted as a virtual community.</p> <p>In this project, I acted mostly as fullstack developer, working with the MERN stack. One of the features I spent a lot of time on was the data dashboard in which I had to visualize the pill dispenser data for both providers and patients. This project really taught me the importance of community engagement. The feedback we got from both healthcare providers and members of NA groups was critical to the design decisions we made.</p>",
         "path": "/projects/medlock",
-        "link": "asdf"
+        "link": "https://github.com/Rishub-Handa/MedLock"
     },
     {
         "name": "Climate Responsibility and Vulnerability",
         "short_desc": "Final project for SARC 5400: Data Visualization. Interactive visual of historic CO2 emissions for various countries.",
-        "long_desc": "<p>This interactive data visualization was my final project for SARC 5400: Data Visualization with Professor Eric Field at the University of Virginia for which I received a score of 4.8 out of 5. I wanted to visually explore who is most responsible for and vulnerable to climate change. The language of responsibility is specifically chosen to reframe climate change as an issue that the US and other countries are responsible for and must address.</p><p>To complete this project, I analyzed the data using Python and created the visual using D3.</p>",
+        "long_desc": "<p>This interactive data visualization was my final project for SARC 5400: Data Visualization with Professor Eric Field at the University of Virginia. I wanted to visually explore who is most responsible for and vulnerable to climate change. The language of responsibility is specifically chosen to reframe climate change as an issue that a select few countries (the US and others) are primarily responsible for and must address.</p><p>To complete this project, I analyzed the data using Python and created the visual using D3.js.</p>",
         "path": "/projects/climate_responsibility",
         "link": "https://chasedawson.github.io/climate-responsibility-viz/"
     },
@@ -38,17 +32,5 @@
         "short_desc": "Understanding the impact of race on child welfare services in Charlottesville, Virginia.",
         "long_desc": "<p>Sorry! I don’t have all the description and link for this project up yet. Check back later as I continue to update my site.</p>",
         "path": "/projects/child_welfare"
-    },
-    {
-        "name": "Campus-Wide Net-Zero New Construction Policy Proposal",
-        "short_desc": "Developed an economic and ethihcal argument to persuade UVA to commit to a campus-wide net-zero carbon approach for all new capital construction.",
-        "long_desc": "<p>Sorry! I don’t have all the description and link for this project up yet. Check back later as I continue to update my site.</p>",
-        "path": "/projects/net_zero_capital_construction"
-    },
-    {
-        "name": "Visualizing the Climate Crisis",
-        "short_desc": "A book comprised of a collection of data-driven visual stories interwoven with peronsal narratives from members of frontline communities. To be published in August 2021.",
-        "long_desc": "<p>Sorry! I don’t have all the description and link for this project up yet. Check back later as I continue to update my site.</p>",
-        "path": "/projects/visualizing_the_climate_crisis"
     }
 ]

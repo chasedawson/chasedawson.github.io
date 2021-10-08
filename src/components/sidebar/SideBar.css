@@ -18,6 +18,17 @@
     border-radius: 10px;
 }
 
+@media only screen and (max-width: 600px) {
+    .SideBar {
+        grid-column: 1;
+        flex-direction: row;
+        grid-row: 1/2;
+        top: none;
+        position: none;
+        padding: 0px;
+    }
+}
+
 .sidebar-link:link {
     color: var(--text);
     text-decoration: none;

@@ -10,26 +10,16 @@ class About extends Component {
                 </p>
                 <div className="self-intro">
                     <p>
-                        I use data to tell stories! I'm passionate about all things data: science, visualization, and storytelling. I also enjoy working on machine learning projects, 
-                        and occasionally, find web development tolerable. 
+                        I use data to tell stories! I'm passionate about all things data: science, visualization, and storytelling. I really enjoy thinking about how people interact with technology.
                     </p>
 
-                    <p>I'm a student at UVA with an expected B.A. in Computer Science in 2022 and M.S. in Data Science in 2023.</p>
+                    <p>I'm in my third and final undergraduate year at UVA with expected B.A. in Computer Science in 2022.</p>
 
                     <p>
-                        Currently, I'm taking a gap year and working for the UVA Biocomplexity Institute, 
-                        where I'm contributing to two projects. In the first, I'm building an experimental platform to determine how 
-                        collective action is mediated through social media. In the second, I'm using text analysis and natural language 
-                        processing techniques to understand race and gender relations in the United States military during World War II 
-                        from a novel historical dataset consisting of 65,000 pages of free-form text and multiple choice responses from 
-                        multiple conducted surveys.
-                    </p> 
-
-                    <p>
-                        In addition to working during my gap year, I'm also participating in a fellowship through the Creator Institute, 
-                        where I am writing a book that will be published in August 2021. The goal of my book, <span style={{"fontStyle": "italic"}}>Visualizing the Climate Crisis</span>,
-                        is to provide a collection of data-driven visual stories interwoven with personal narratives and experiences from members of frontline communities, climate activists,
-                        or generally people involved in the climate space. 
+                        I just took a gap year, during which I worked for the UVA Biocomplexity Institute, so I'm easing back into life as a university student. I am really grateful for the gap year--it allowed me to 
+                        soldify my interests and think more about what I want to do post-grad. Right now, I work as a Data Fellow for the UVA Equity Center, where I'm contributing to a 
+                        climate equity project for Charlottesville and the Eastern Shore. We're currently preparing for a community exhibit in Charlottesville that 
+                        will feature art, data visualization, and youth storytelling all related to climate change!
                     </p>
                     <p>
                         Thanks for visiting my site! Use the sidebar to the left to contact me or peruse some of the cool things that I have done or am doing.

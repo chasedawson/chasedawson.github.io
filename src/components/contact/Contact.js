@@ -9,7 +9,7 @@ class Contact extends Component {
                     say hello!
                 </p>
                 <div className="page-content">
-                    <p>Shoot me an email at chase@virginia.edu. I'd love to chat!</p>
+                    <p>Shoot me an email at chase@virginia.edu or DM me at @chasedawson_ on Twitter. I'd love to chat!</p>
                 </div>
             </div>
         );

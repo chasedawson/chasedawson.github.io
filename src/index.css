@@ -4,6 +4,7 @@
   --hover: grey;
   --select: black;
   --accent: #FAC426;
+  --max-width: 600px;
 }
 
 body {
